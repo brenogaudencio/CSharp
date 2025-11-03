@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace CSharp
 {
@@ -6,10 +7,13 @@ namespace CSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oi, mundo");
-            Console.WriteLine("Bom dia!");
+            double x = 10.35784;
 
-            Console.ReadLine();
+            Console.WriteLine(x);
+            Console.WriteLine(x.ToString("F2"));
+            Console.WriteLine(x.ToString("F4"));
+
+            Console.WriteLine(x.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
