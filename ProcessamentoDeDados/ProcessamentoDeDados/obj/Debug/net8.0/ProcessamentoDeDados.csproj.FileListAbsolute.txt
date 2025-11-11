@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\bin\Debug\net8.0\ProcessamentoDeDados.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\refint\ProcessamentoDeDados.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ProcessamentoDeDados.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProcessamentoDeDados\ProcessamentoDeDados\obj\Debug\net8.0\ref\ProcessamentoDeDados.dll
