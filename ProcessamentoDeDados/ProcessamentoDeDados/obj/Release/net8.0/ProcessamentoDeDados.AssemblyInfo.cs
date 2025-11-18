@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessamentoDeDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c550fc565c0eed5812f120f98b90ac445ea11e8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a11a7fdc28ed541d51009b7ec739641b01e03180")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessamentoDeDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessamentoDeDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

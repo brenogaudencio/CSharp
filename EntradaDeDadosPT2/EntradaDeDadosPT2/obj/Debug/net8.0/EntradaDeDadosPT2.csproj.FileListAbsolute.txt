@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\bin\Debug\net8.0\EntradaDeDadosPT2.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\bin\Debug\net8.0\EntradaDeDadosPT2.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\bin\Debug\net8.0\EntradaDeDadosPT2.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\bin\Debug\net8.0\EntradaDeDadosPT2.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\bin\Debug\net8.0\EntradaDeDadosPT2.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\refint\EntradaDeDadosPT2.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\EntradaDeDadosPT2.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\EntradaDeDadosPT2\EntradaDeDadosPT2\obj\Debug\net8.0\ref\EntradaDeDadosPT2.dll

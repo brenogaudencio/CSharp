@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\bin\Debug\net8.0\FuncoesMatemarias1.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\bin\Debug\net8.0\FuncoesMatemarias1.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\bin\Debug\net8.0\FuncoesMatemarias1.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\bin\Debug\net8.0\FuncoesMatemarias1.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\bin\Debug\net8.0\FuncoesMatemarias1.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\refint\FuncoesMatemarias1.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\FuncoesMatemarias1.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\FuncoesMatematicas\FuncoesMatemarias1\FuncoesMatemarias1\obj\Debug\net8.0\ref\FuncoesMatemarias1.dll
