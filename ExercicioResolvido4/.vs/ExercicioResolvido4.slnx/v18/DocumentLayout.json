@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ExercicioResolvido4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F831F303-5450-40AE-8B3B-5809E59DDE0C}|ExercicioResolvido4\\ExercicioResolvido4.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp\\exercicioresolvido4\\exercicioresolvido4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F831F303-5450-40AE-8B3B-5809E59DDE0C}|ExercicioResolvido4\\ExercicioResolvido4.csproj|solutionrelative:exercicioresolvido4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ExercicioResolvido4\\ExercicioResolvido4\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido4\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ExercicioResolvido4\\ExercicioResolvido4\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:14:45.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
