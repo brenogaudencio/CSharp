@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\bin\Debug\net10.0\ExResolvidoBhaskara.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\bin\Debug\net10.0\ExResolvidoBhaskara.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\bin\Debug\net10.0\ExResolvidoBhaskara.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\bin\Debug\net10.0\ExResolvidoBhaskara.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\bin\Debug\net10.0\ExResolvidoBhaskara.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\refint\ExResolvidoBhaskara.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ExResolvidoBhaskara.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvidoBhaskara\ExResolvidoBhaskara\obj\Debug\net10.0\ref\ExResolvidoBhaskara.dll
