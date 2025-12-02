@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExerciciosResolvido4/1.0.0": {
+        "runtime": {
+          "ExerciciosResolvido4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciciosResolvido4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
