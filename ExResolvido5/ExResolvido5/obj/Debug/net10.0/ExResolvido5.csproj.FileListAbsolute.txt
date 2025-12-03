@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\bin\Debug\net10.0\ExResolvido5.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\bin\Debug\net10.0\ExResolvido5.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\bin\Debug\net10.0\ExResolvido5.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\bin\Debug\net10.0\ExResolvido5.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\bin\Debug\net10.0\ExResolvido5.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\refint\ExResolvido5.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ExResolvido5.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ExResolvido5\ExResolvido5\obj\Debug\net10.0\ref\ExResolvido5.dll
