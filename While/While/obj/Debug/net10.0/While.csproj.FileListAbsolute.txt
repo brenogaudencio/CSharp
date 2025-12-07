@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\bin\Debug\net10.0\While.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\bin\Debug\net10.0\While.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\bin\Debug\net10.0\While.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\bin\Debug\net10.0\While.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\bin\Debug\net10.0\While.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\refint\While.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\While.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\While\While\obj\Debug\net10.0\ref\While.dll
