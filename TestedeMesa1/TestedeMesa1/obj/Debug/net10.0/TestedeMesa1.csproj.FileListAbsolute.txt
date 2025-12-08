@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\bin\Debug\net10.0\TestedeMesa1.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\bin\Debug\net10.0\TestedeMesa1.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\bin\Debug\net10.0\TestedeMesa1.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\bin\Debug\net10.0\TestedeMesa1.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\bin\Debug\net10.0\TestedeMesa1.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\refint\TestedeMesa1.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\TestedeMesa1.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\TestedeMesa1\TestedeMesa1\obj\Debug\net10.0\ref\TestedeMesa1.dll
