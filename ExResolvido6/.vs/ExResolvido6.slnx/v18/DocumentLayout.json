@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ExResolvido6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCF66C3-E08D-41E8-B0C7-0A8568B65400}|ExResolvido6\\ExResolvido6.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp\\exresolvido6\\exresolvido6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCF66C3-E08D-41E8-B0C7-0A8568B65400}|ExResolvido6\\ExResolvido6.csproj|solutionrelative:exresolvido6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ExResolvido6\\ExResolvido6\\Program.cs",
+              "RelativeDocumentMoniker": "ExResolvido6\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ExResolvido6\\ExResolvido6\\Program.cs",
+              "RelativeToolTip": "ExResolvido6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T22:36:01.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
