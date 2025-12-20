@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\bin\Debug\net10.0\ProblemaExemplo.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\bin\Debug\net10.0\ProblemaExemplo.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\bin\Debug\net10.0\ProblemaExemplo.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\bin\Debug\net10.0\ProblemaExemplo.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\bin\Debug\net10.0\ProblemaExemplo.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\refint\ProblemaExemplo.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ProblemaExemplo.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ProblemaExemplo\ProblemaExemplo\obj\Debug\net10.0\ref\ProblemaExemplo.dll
