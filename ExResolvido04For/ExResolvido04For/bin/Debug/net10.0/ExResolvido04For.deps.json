@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExResolvido04For/1.0.0": {
+        "runtime": {
+          "ExResolvido04For.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExResolvido04For/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
