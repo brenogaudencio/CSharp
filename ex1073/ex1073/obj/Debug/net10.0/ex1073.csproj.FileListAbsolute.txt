@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\bin\Debug\net10.0\ex1073.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\bin\Debug\net10.0\ex1073.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\bin\Debug\net10.0\ex1073.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\bin\Debug\net10.0\ex1073.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\bin\Debug\net10.0\ex1073.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\refint\ex1073.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ex1073.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1073\ex1073\obj\Debug\net10.0\ref\ex1073.dll

@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\bin\Debug\net10.0\ex1072.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\bin\Debug\net10.0\ex1072.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\bin\Debug\net10.0\ex1072.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\bin\Debug\net10.0\ex1072.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\bin\Debug\net10.0\ex1072.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\refint\ex1072.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ex1072.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1072\ex1072\obj\Debug\net10.0\ref\ex1072.dll
