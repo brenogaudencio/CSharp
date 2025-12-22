@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\bin\Debug\net10.0\ex1080.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\bin\Debug\net10.0\ex1080.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\bin\Debug\net10.0\ex1080.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\bin\Debug\net10.0\ex1080.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\bin\Debug\net10.0\ex1080.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\refint\ex1080.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ex1080.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1080\ex1080\obj\Debug\net10.0\ref\ex1080.dll

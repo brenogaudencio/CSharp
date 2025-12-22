@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExResolvidoBhaskara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75cf7b5e04dc1b73e50b118ec18ab4d840f29a8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af633e900e27c6f673c741a1d7bcc8946d027cb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExResolvidoBhaskara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExResolvidoBhaskara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

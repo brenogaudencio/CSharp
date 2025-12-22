@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1134\\ex1134\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex1134\\ex1134\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1118\\ex1118\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ex1118\\ex1118\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1117\\Ex1117\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex1117\\Ex1117\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1115\\Ex1115\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex1115\\Ex1115\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1114\\Ex1114\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ex1114\\Ex1114\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1134\\ex1134\\Program.cs",
+              "RelativeDocumentMoniker": "ex1134\\ex1134\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1134\\ex1134\\Program.cs",
+              "RelativeToolTip": "ex1134\\ex1134\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:33:06.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1118\\ex1118\\Program.cs",
+              "RelativeDocumentMoniker": "ex1118\\ex1118\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1118\\ex1118\\Program.cs",
+              "RelativeToolTip": "ex1118\\ex1118\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:32:57.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1117\\Ex1117\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1117\\Ex1117\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1117\\Ex1117\\Program.cs",
+              "RelativeToolTip": "Ex1117\\Ex1117\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:32:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1115\\Ex1115\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1115\\Ex1115\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1115\\Ex1115\\Program.cs",
+              "RelativeToolTip": "Ex1115\\Ex1115\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:32:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1114\\Ex1114\\Program.cs",
+              "RelativeDocumentMoniker": "Ex1114\\Ex1114\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\Ex1114\\Ex1114\\Program.cs",
+              "RelativeToolTip": "Ex1114\\Ex1114\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:32:34.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
