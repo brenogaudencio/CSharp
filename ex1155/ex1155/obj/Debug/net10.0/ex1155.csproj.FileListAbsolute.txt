@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\bin\Debug\net10.0\ex1155.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\bin\Debug\net10.0\ex1155.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\bin\Debug\net10.0\ex1155.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\bin\Debug\net10.0\ex1155.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\bin\Debug\net10.0\ex1155.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\refint\ex1155.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ex1155.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1155\ex1155\obj\Debug\net10.0\ref\ex1155.dll

@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\bin\Debug\net10.0\ex1099.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\bin\Debug\net10.0\ex1099.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\bin\Debug\net10.0\ex1099.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\bin\Debug\net10.0\ex1099.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\bin\Debug\net10.0\ex1099.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\refint\ex1099.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ex1099.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\ex1099\ex1099\obj\Debug\net10.0\ref\ex1099.dll

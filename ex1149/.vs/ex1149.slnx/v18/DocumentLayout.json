@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1149\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABA3004-A042-4404-85C5-DE8863800CD1}|ex1149\\ex1149.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp\\ex1149\\ex1149\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABA3004-A042-4404-85C5-DE8863800CD1}|ex1149\\ex1149.csproj|solutionrelative:ex1149\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1149\\ex1149\\Program.cs",
+              "RelativeDocumentMoniker": "ex1149\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\ex1149\\ex1149\\Program.cs*",
+              "RelativeToolTip": "ex1149\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T18:21:03.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
