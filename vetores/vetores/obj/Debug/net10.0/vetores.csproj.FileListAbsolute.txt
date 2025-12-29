@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\bin\Debug\net10.0\vetores.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\bin\Debug\net10.0\vetores.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\bin\Debug\net10.0\vetores.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\bin\Debug\net10.0\vetores.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\bin\Debug\net10.0\vetores.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\refint\vetores.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\vetores.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\vetores\vetores\obj\Debug\net10.0\ref\vetores.dll

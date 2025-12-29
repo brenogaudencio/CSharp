@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\bin\Debug\net10.0\exPropostos.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\bin\Debug\net10.0\exPropostos.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\bin\Debug\net10.0\exPropostos.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\bin\Debug\net10.0\exPropostos.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\bin\Debug\net10.0\exPropostos.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\refint\exPropostos.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\exPropostos.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostos\exPropostos\obj\Debug\net10.0\ref\exPropostos.dll

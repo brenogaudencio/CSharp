@@ -1,0 +1,15 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\bin\Debug\net10.0\exPropostosVetor06.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\bin\Debug\net10.0\exPropostosVetor06.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\bin\Debug\net10.0\exPropostosVetor06.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\bin\Debug\net10.0\exPropostosVetor06.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\bin\Debug\net10.0\exPropostosVetor06.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.sourcelink.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\refint\exPropostosVetor06.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\exPropostosVetor06.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp\exPropostosVetor06\exPropostosVetor06\obj\Debug\net10.0\ref\exPropostosVetor06.dll

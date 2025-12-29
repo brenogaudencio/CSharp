@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\exPropostosVetor05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E6B5901-D723-4177-9547-1AC246F62A7F}|exPropostosVetor05\\exPropostosVetor05.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp\\expropostosvetor05\\expropostosvetor05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E6B5901-D723-4177-9547-1AC246F62A7F}|exPropostosVetor05\\exPropostosVetor05.csproj|solutionrelative:expropostosvetor05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\exPropostosVetor05\\exPropostosVetor05\\Program.cs",
+              "RelativeDocumentMoniker": "exPropostosVetor05\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp\\exPropostosVetor05\\exPropostosVetor05\\Program.cs",
+              "RelativeToolTip": "exPropostosVetor05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T19:31:06.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
